@@ -1,0 +1,25 @@
+path852: error: Error during autofill!  This means that there is a problem with Ink/Stitch.
+
+If you'd like to help us make Ink/Stitch better, please paste this whole message into a new issue at: https://github.com/inkstitch/inkstitch/issues/new
+
+Traceback (most recent call last):
+  File "D:\a\inkstitch\inkstitch\lib\elements\auto_fill.py", line 212, in to_patches
+  File "D:\a\inkstitch\inkstitch\lib\debug.py", line 125, in decorated
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 55, in auto_fill
+  File "D:\a\inkstitch\inkstitch\lib\debug.py", line 125, in decorated
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 149, in build_fill_stitch_graph
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 173, in insert_node
+ValueError: min() arg is an empty sequence
+
+path852: error: Error during autofill!  This means that there is a problem with Ink/Stitch.
+
+If you'd like to help us make Ink/Stitch better, please paste this whole message into a new issue at: https://github.com/inkstitch/inkstitch/issues/new
+
+Traceback (most recent call last):
+  File "D:\a\inkstitch\inkstitch\lib\elements\auto_fill.py", line 212, in to_patches
+  File "D:\a\inkstitch\inkstitch\lib\debug.py", line 125, in decorated
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 55, in auto_fill
+  File "D:\a\inkstitch\inkstitch\lib\debug.py", line 125, in decorated
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 149, in build_fill_stitch_graph
+  File "D:\a\inkstitch\inkstitch\lib\stitches\auto_fill.py", line 173, in insert_node
+ValueError: min() arg is an empty sequence
